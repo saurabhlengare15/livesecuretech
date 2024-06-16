@@ -2988,7 +2988,7 @@ section,
 }
 
 #pricing .section-title{
-  text-align: justify;
+  text-align: left;
   font-family: var(--nav-font);
 }
 
